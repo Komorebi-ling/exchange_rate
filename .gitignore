@@ -1,0 +1,19 @@
+# Android/Gradle generated files
+.gradle/
+build/
+*/build/
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+captures/
+
+# Signing and local secrets
+*.jks
+*.keystore
+keystore.properties
+
+# OS/editor files
+.DS_Store
+Thumbs.db

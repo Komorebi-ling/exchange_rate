@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "vscjava.vscode-java-pack",
+    "fwcd.kotlin",
+    "mathiasfrohlich.kotlin",
+    "adelphes.android-dev-ext"
+  ]
+}
